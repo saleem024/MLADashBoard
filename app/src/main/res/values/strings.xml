@@ -1,0 +1,134 @@
+<resources>
+    <!--<string name="app_name">ಎಂಎಲ್ಎ  ಡ್ಯಾಶ್ಬೋರ್ಡ್</string>-->
+    <!--<string name="app_icon_name">ಎಂಎಲ್ಎ  ಡ್ಯಾಶ್ಬೋರ್ಡ್</string>-->
+    <string name="app_name">MLA DashBoard</string>
+    <string name="app_icon_name">MLA DashBoard</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <color name="colorGray">#b0bec5</color>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="searchable">Searchable</string>
+    <string name="pass_not_reset">Unable to reset password</string>
+    <string name="pass_change_success">Password changed succesfully</string>
+    <string name="pass_not_change">Unable to change password..</string>
+    <string name="contact_empty">Enter valid Contact No</string>
+    <string name="pass_reset_success">Login with your new password sent to your registered mail id</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="no_internet_connection">No Internet Connection Available.Please connect to internet</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="emailpattern">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="forgot_password_msg">Provide your registered Email Id to follow password reset instructions.</string>
+    <string name="user_login">User Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Login</string>
+    <string name="not_have_acc_sign_up"> Don\'t have an account? Register Here!</string>
+    <string name="setting">► Settings</string>
+    <string name="email_error">Enter valid email</string>
+    <string name="invalid_credential_msg">Invalid Email or Password</string>
+    <string name="password_empty">Please enter password</string>
+    <string name="user_reg">User Registration</string>
+    <string name="sign_up">Register</string>
+    <string name="ady_reg_sign_in">Already Registered? Login Here!</string>
+    <string name="fgot_pwd">Forgot Password?</string>
+    <string name="rset_pwd">Reset Password</string>
+    <string name="bk">Back</string>
+    <string name="title_interner">Internet Error</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="about_us"><![CDATA[Turning Point Computers is a leading Training Institute in North Karnataka since with the mission of providing best quality Computer education to all class of people. Turning Point Computers is a Franchisee of KEONICS (A government of Karnataka Enterprise) for government Certification &amp; Employment. Over the past few years the growth of the computer industry has been quite remarkable &amp; today it is the fastest growing industry, Not just the students or housewives, even experienced professional are helped greatly by upgrading themselves in Turning Point Computers. Our organization not only provides the platform to build up the bright professional career in computer field but also provides the placement opportunities. As Computer knowledge has become primary requirement for everyone, our Institute provides best Quality Computer Education. Our motive is to make all class of people Computer literate &amp; take all possible advantages to make their future much brighter.
+
+We have gained a tremendous experience in the field of programming &amp; engineering. We have created a proper IT training courses structure &amp; duration to improve the effectiveness &amp; efficiency of the courses that we offer. ]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Testing for login &amp; register validation -->
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter an email address &amp; password.</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address &amp; password.</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_update_password">UpdatePasswordActivity</string>
+
+
+    <string name="dash_board">Dash Board</string>
+
+    <string name="confirm_password_error">Confirm Password Error</string>
+    <string name="login_success">Login Sucess</string>
+    <!--<string name="title_activity_about_constituency">ಕ್ಷೇತ್ರದ ಬಗ್ಗೆ</string>-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_about_mla">ಶಾಸಕರ ಕಿರುಪರಿಚಯ</string>
+    <string name="title_activity_intiative">ಮುಂದಾಳತ್ವ</string>
+    <string name="title_activity_contacts">ಸಂಪರ್ಕ</string>
+    <string name="title_activity_raise_your_request">RaiseYourRequestActivity</string>
+    <string name="title_activity_track_your_request">TrackYourRequestActivity</string>
+    <string name="about_mla">ಶಾಸಕರ ಕಿರುಪರಿಚಯ</string>
+    <string name="ministry_info">ಸಚಿವಾಲಯ : ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ , ಜೀವಿಕ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ವಿಜ್ಞಾನ ಹಾಗು ತಂತ್ರಜ್ಞಾನ ಖಾತೆಗಲ್ಲಳದೆ ಪ್ರವಾಸಯೋದ್ಯಮ ಖಾತೆಯನ್ನೂ ಸ್ವತಂತ್ರವಾಗಿ ನಿರ್ವಹಿಸುತಿದ್ದಾರೆ. ಶ್ರೀ ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆಯವರು ಪ್ರವಾಸೋದ್ಯಮ ಬೆಳವಣಿಗೆಗಾಗಿ ವಿಜ್ಞಾನ ಸರ್ಕ್ಯೂಟ್ , ಬೆಂಗಳೂರು ಪ್ರವಾಸೋದ್ಯಮ ಸಲಹಾ ಸಮಿತಿ , ಹೈದೆರಾಬಾದ್ - ಕರ್ನಾಟಕ ಪ್ರವಾಸೋದ್ಯಮ ಸಲಹಾ ಸಮಿತಿ , ಕರಾವಳಿ ಸರ್ಕ್ಯೂಟ್ , ಕಾವೇರಿ ಸರ್ಕ್ಯೂಟ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿ ಶ್ರಮಿಸುತಿದ್ದಾರೆ. ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ ಸಚಿವರಾಗಿ "ಸ್ಟಾರ್ಟ್ಸ್ಪ್ ಬೂಸ್ಟರ್ ಕಿಟ್ " ನ್ನು ಪ್ರಾರಂಭಿಸಿ ಹೊಸಬರಿಗೆ ಮಾರ್ಗದರ್ಶನ ಸಿಗುವ ಅವಕಾಶವನ್ನು ಸೃಷ್ಟಿಸಿದ್ದಾರೆ.</string>
+    <string name="political_life">ರಾಜಕೀಯ ಜೀವನ : ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷದಿಂದ ಶ್ರೀ ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆರವರು ಗುಲ್ಬರ್ಗ ಜಿಲ್ಲೆಯ ಚಿತ್ತಾಪುರ ಕ್ಷೇತ್ರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಿದ್ದಾರೆ. ಶ್ರೀ ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆರವರು ವಿದ್ಯಾರ್ಥಿ ದೆಸೆಯಲ್ಲಿಯೇ .... ನ ಸದಸ್ಯರಾಗಿ ರಾಜಕೀಯಕ್ಕೆ ಪ್ರವೇಶಿಸಿದರು. ನಂತರ .... ನ ಉಪಾಧ್ಯಕ್ಷರಾಗಿಯೂ ಸೇವೆ ಸಲ್ಲಿಸಿದರು.</string>
+    <string name="initiatives">ಮುಂದಾಳತ್ವ</string>
+    <string name="request_title">ವಿನಂತಿಯ ಶೀರ್ಷಿಕೆ</string>
+    <string name="request">ವಿನಂತಿಗಳು</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="phone_no">ದೊರವಾಣಿ ಸಂಖ್ಯೆ</string>
+    <string name="village_name">ಗ್ರಾಮದ ಹೆಸರು</string>
+    <string name="department">Department</string>
+    <string name="category">ವರ್ಗ</string>
+    <string name="gram_panchayat_name">ಗ್ರಾಮ ಪಂಚಾಯತ್ ಹೆಸರು</string>
+    <string name="request_type">ವಿನಂತಿ ಪ್ರಕಾರ</string>
+    <string name="register">ವಿನಂತಿಸಿ ಸಲ್ಲಿಸಲು</string>
+    <string name="about_the_constituency">ಕ್ಷೇತ್ರದ ಬಗ್ಗೆ</string>
+    <string name="chitapur_desc">ಕರ್ನಾಟಕ ರಾಜ್ಯದ ಗುಲ್ಬರ್ಗ ಜಿಲ್ಲೆಯ ಚಿತ್ತಾಪುರ ಒಂದು ಪಟ್ಟಣ ಪುರಸಭೆ . ಚಿತ್ತಾಪುರವನ್ನು ೨೩ ವಿಭಾಗಗಳನ್ನಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದ್ದು ಪ್ರತಿ ಐದು ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಚುನಾವಣೆ ನಡೆಸಲಾಗುವುದು . ೨೦೧೧ರಲ್ಲಿ ನಡೆದ ಜನಗಣತಿಯ ವರದಿಯಂತೆ ಚಿತ್ತಾಪುರ ಪಟ್ಟಣ ಪುರಸಭೆಯಲ್ಲಿಒಟ್ಟು ಜನಸಂಖ್ಯೆ ೩೧೨೯೯ ಆಗಿದ್ದು ಇದರಲ್ಲಿ ೧೫೪೮೯ ಮಂದಿ ಪುರುಷರು ಹಾಗು ೧೫೮೧೦ ಮಂದಿ ಮಹಿಳೆಯರು ಇದ್ಧಾರೆ . ಒಟ್ಟು ಜನಸಂಖ್ಯೆಯ ಶೇ ೧೪.೨೦ ರಷ್ಟು ಜನಸಂಖ್ಯೆಯು ೦-೬ ವರ್ಷದ ಮಕ್ಕಳಿಂದ ಕೂಡಿದೆ. ಚಿತ್ತಾಪುರ ಪಟ್ಟಣ ಪುರಸಭೆಯಲ್ಲಿನ ಒಟ್ಟು ಜನಸಂಖ್ಯೆಯಲ್ಲಿ ಮಹಿಳೆಯರ ಅನುಪಾತ ೧೦೨೧ ಆಗಿದ್ದು ರಾಜ್ಯದಲ್ಲಿ ಈ ಅನುಪಾತ ೯೪೮ಆಗಿದೆ. ಇಲ್ಲಿನ ಸಾಕ್ಷರತೆಯ ಪ್ರಮಾಣ ಶೇ. ೬೫. ೫ ಆಗಿದ್ದು ರಾಜ್ಯದಲ್ಲಿ ಈ ಪ್ರಮಾಣ ಶೇ. ೭೫. ೩೬. ಇಲ್ಲಿನ ಪುರುಷರ ಸಾಕ್ಷರತೆಯ ಮಟ್ಟ ೭೩. ೩೬ ಇದ್ದರೆ ಮಹಿಳಾ ಸಾಕ್ಷರತಾ ಮಟ್ಟ ಶೇ. ೫೬. ೯೭.</string>
+    <string name="request_headline">ನಿಮ್ಮ ಸಮಸ್ಯೆಗಳಿಗೆ ಸೂಕ್ತ ಪರಿಹಾರಗಳು</string>
+    <string name="request_headline_two">ಕರೆಗಳಿಗಾಗಿ 1860-425-4040</string>
+    <string name="speak_to_your_mla">ನಿಮ್ಮ ಶಾಸಕರೊಂದಿಗೆ ಮಾತಾಡಿ</string>
+    <string name="raise_your_request">ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಕಳುಹಿಸು</string>
+    <string name="citizens_platform">ಪರಿಣಾಮಕಾರಿ ಆಡಳಿತಕ್ಕಾಗಿ ನಾಗರಿಕರ ವೇದಿಕೆ</string>
+    <string name="comprehensive_tool">ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಹೆಚ್ಚಿಸುವ ಸಮಗ್ರ ಸಾಧನ / ಸಲಹೆ / ದೂರುಗಳು ಮತ್ತು ಆಡಳಿತ ಸುಧಾರಿಸಲು ಯೋಜನೆಗಳು.</string>
+
+    <!--<string name="request_headline">Smart Solutions to your problems</string>-->
+    <!--<string name="request_headline_two">Call me at 1860-425-4040</string>-->
+
+    <!--<string name="speak_to_your_mla">Speak to your MLA</string>-->
+    <!--<string name="raise_your_request">Raise your request</string>-->
+    <!--<string name="citizens_platform">Citizens platform for effective governance</string>-->
+    <!--<string name="comprehensive_tool">A Comprehensive tool to raise your request / suggestion / complaints and ideas to improve the governance.</string>-->
+    <!--<string name="about_the_constituency">About the Constituency</string>-->
+    <!--<string name="chitapur_desc">Chitapur is a Town Municipal Council city in district of Gulbarga, Karnataka. The Chitapur city is divided into 23 wards for which elections are held every 5 years. The Chitapur Town Municipal Council has population of 31,299 of which 15,489 are males while 15,810 are females as per report released by Census India 2011. Population of Children with age of 0-6 is 14.20 % of total population of Chitapur. In Chitapur Town Municipal Council, Female Sex Ratio is of 1021 against state average of 973. Child Sex Ratio in Chitapur is around 970 compared to Karnataka state average of 948. Literacy rate of Chitapur city is 65.05% against state average of 75.36 %. In Chitapur, Male literacy is around 73.36 % while female literacy rate is 56.97 %.</string>-->
+
+    <!--<string name="title_activity_about_mla">AboutMlaActivity</string>-->
+    <!--<string name="title_activity_intiative">IntiativeActivity</string>-->
+    <!--<string name="title_activity_contacts">ContactsActivity</string>-->
+    <!--<string name="title_activity_raise_your_request">RaiseYourRequestActivity</string>-->
+    <!--<string name="title_activity_track_your_request">TrackYourRequestActivity</string>-->
+    <!--<string name="about_mla">About MLA</string>-->
+    <!--<string name="ministry_info">Ministry: Besides holding the Information Technology and Bio-Technology, Science and Technology Department portfolio Tourism is also the Tourism Department with Independent Charge.As the Tourism minister Priyank Kharge announced a science circuit, Bengaluru Tourism Advisory Committee, Hyderabad-Karnataka Tourism Advisory Committee,the coastal circuit and the Cauvery circuit to boost Tourism in the state. As the Information Technology Minister Priyank Kharge has introduced a Startup Booster Kit which has facilities like access to mentors, cloud credits and incubators.</string>-->
+    <!--<string name="political_life">Political life: Priyank Kharge is from the Indian National Congress, He represents Chitapur Assembly Constituency of Gulbarga district, Karnataka. He entered politics as a Student activist of the National Students\' Union of India and was elected the vice-president of the Karnataka unit of the Youth Congress for one term.</string>-->
+    <!--<string name="initiatives">Initiatives</string>-->
+    <!--<string name="request_title">Request Title</string>-->
+    <!--<string name="request">Request</string>-->
+    <!--<string name="name">Name</string>-->
+    <!--<string name="email">Email</string>-->
+    <!--<string name="phone_no">Phone No</string>-->
+    <!--<string name="village_name">Village Name</string>-->
+    <!--<string name="department">Department</string>-->
+    <!--<string name="category">Category</string>-->
+    <!--<string name="gram_panchayat_name">Gram Panchayat Name</string>-->
+    <!--<string name="request_type">Request Type</string>-->
+    <!--<string name="register">Register</string>-->
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985313481293",
+    "firebase_url": "https://mla-dashboard.firebaseio.com",
+    "project_id": "mla-dashboard",
+    "storage_bucket": "mla-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985313481293:android:e371c063501f19d1",
+        "android_client_info": {
+          "package_name": "com.techkshetrainfo.mladashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985313481293-gh650hvi99bsm7pd439sk79perlpm2ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techkshetrainfo.mladashboard",
+            "certificate_hash": "1eee688efb2b94afa2b3cb36f62d9e1795698875"
+          }
+        },
+        {
+          "client_id": "985313481293-uj2bul6cnbbkcql5an2etp4bp30sfjhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKJo4EZqCL2T6tvrNvGH1XGgKoJct5Ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985313481293-uj2bul6cnbbkcql5an2etp4bp30sfjhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
